@@ -6,7 +6,9 @@ This bot leverages the whatsapp-web.js library to interact with WhatsApp's platf
 
 **Features:**
 WhatsApp Interaction: Utilizes whatsapp-web.js to send and receive messages on WhatsApp.
+
 OpenAI Integration: Uses OpenAI's API for AI-powered conversation generation.
+
 Environment Variable Management: Utilizes dotenv for managing environment variables.
 
 **Dependencies:**
