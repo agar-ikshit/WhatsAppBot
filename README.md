@@ -1,7 +1,7 @@
-##**WhatsAppBot**
+#**WhatsAppBot**
 A whatsApp bot created using openai API and what-appweb pack, written in node.js
 
-##**Description**
+#**Description**
 This bot leverages the whatsapp-web.js library to interact with WhatsApp's platform programmatically. It uses OpenAI's API to generate responses based on incoming messages. The bot engages in conversation by providing AI-generated replies.
 
 ##**Features**
